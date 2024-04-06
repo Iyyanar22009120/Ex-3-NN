@@ -1,7 +1,6 @@
 <H3>NAME : IYYANAR S</H3>
 <H3>REG NO : 212222240036</H3>
 <H3>EXP NO : 3</H3>
-<H3>DATE : 01/04/2024</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
 <h3>Aim:</h3>
 To implement a perceptron for classification using Python
